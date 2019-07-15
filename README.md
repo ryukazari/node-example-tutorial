@@ -2,7 +2,7 @@
 
 Ejercicio de la Sección 5
 
-Instarlar 
+Instalar 
 
 ```
 npm install
